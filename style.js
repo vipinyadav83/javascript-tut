@@ -1,4 +1,4 @@
-let text = "   Apple, Banana, Kiwi";
+/*let text = "   Apple, Banana, Kiwi";
 let a= "text"
 let b= "hai"
 //length
@@ -13,4 +13,5 @@ var i =1
 //const sl  = text.replace('a','z')
 //const sl  = text.concat(a)
 const sl  = text.trim()
-console.log(sl)
+console.log(sl)*/
+console.log("2" => 1);
