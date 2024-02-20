@@ -69,10 +69,10 @@ console.log(myTotal);*/
     "employee_name": "Herrod Chandler",
     "employee_salary": 137
     }
-    ];*/
+    ];
 
-    /*const priceSalary = shoppingCart.reduce((acc,curval) => {
-       // console.log(acc);
+    const priceSalary = shoppingCart.reduce((acc,curval) => {
+        console.log(acc);
         return acc+curval.employee_salary
     },0)
     console.log(priceSalary);*/
